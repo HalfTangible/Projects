@@ -1,0 +1,37 @@
+body{
+    background-color: azure;
+}
+
+#login-form{
+    width: 500px;
+    background-color: darkgray;
+    padding: 15px;
+    margin-top: 150px;
+    box-shadow: 4px 4px 8px black;
+    border-radius: 6px;
+}
+
+.login-container{
+    display: flex;
+    justify-content: center;
+}
+
+#login-form div{
+    margin: 10px;
+}
+
+#username, #password, #login-btn{
+    width: 100%;
+}
+
+#username, #password{
+    padding: 5px;
+}
+
+#login-btn:hover{
+    background-color: red;
+}
+
+#login-btn{
+    transition: .5s;
+}

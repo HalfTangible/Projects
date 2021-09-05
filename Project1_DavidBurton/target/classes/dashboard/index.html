@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="../scripts/dashboard.css"></link>
+    <title>Finance Manager</title>
+</head>
+<body>
+    
+
+    <div><h1>Reimbursements</h1><button id="logout-btn">Logout</button></div>
+
+    <div id="table-container">
+        <div class = "subtable" id = "newSub-container">
+            <form id="newSub-form">
+                <h2 class = "table-title">New Submission</h2>
+                <div><input type="text" id="newAmount" placeholder="Amount Reimbursement"/></div>
+                <div><input type="text" id="newDescription" placeholder="Describe the submission"/></div>
+                <div><select id="newType">
+                    <option value = 4>Other Expense</option>
+                    <option value = 3>Food Expense</option>
+                    <option value = 1>Lodging Expense</option>
+                    <option value = 2>Travel Expense</option>
+                </select></div>
+                <div><button id="submit-btn">Submit</button></div>
+            </form>
+        </div>
+
+    </div>
+
+    <script src="../scripts/dashboard.js"></script>
+    <script src="../scripts/global.js"></script>
+    
+</body>
+</html>

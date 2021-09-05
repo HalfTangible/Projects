@@ -1,0 +1,91 @@
+body{
+    background-color: azure;
+}
+
+#logout-btn{
+    margin-right: 0;
+    margin-left: auto;
+}
+
+.table-container{
+
+    box-shadow: 4px 4px 8px black;
+    border-radius: 6px;
+    background-color: darkgray;
+}
+
+.cell{
+    align-content: center;
+    text-align-last: center;
+    border: black;
+    border-width: 1px;
+    border-radius: 3px;
+    border-style: solid;
+    background-color:lightgray;
+    justify-content: center;
+    text-justify: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    box-shadow: 4px 4px 8px rgb(109, 109, 109);
+    
+}
+
+.headerCell{
+    align-content: center;
+    text-align-last: center;
+    border: black;
+    border-width: 1px;
+    border-radius: 3px;
+    border-style: solid;
+    background-color: red;
+    justify-content: center;
+    text-justify: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    box-shadow: 4px 4px 8px darkred;
+    
+}
+
+#accept.button{
+    background-color:green;
+    border-radius: 6px;
+}
+
+#reject.button{
+    background-color:red;
+    border-radius: 6px;
+}
+
+#accept.button:hover{
+    background-color:darkgreen;
+    transition: .3s;
+    color: white
+    
+}
+
+#reject.button:hover{
+    background-color:darkred;
+    transition: .3s;
+    color: white
+}
+
+.subtable{
+    border: black;
+    margin-top: 20px;
+    border-style: solid;
+    border-width: 3px;
+    justify-content: center;
+    box-shadow: 4px 4px 8px black;
+    border-radius: 6px;
+    background-color: darkgray;
+    padding-bottom: 10px;
+
+}
+
+.row{
+    display:flex;
+    justify-content: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}

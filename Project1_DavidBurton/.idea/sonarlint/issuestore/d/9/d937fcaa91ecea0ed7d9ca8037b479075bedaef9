@@ -1,0 +1,60 @@
+
+7
+java:S1170
+"!Make this final field static too.(×é¤é
+<
+java:S1170"!Make this final field static too.(™´ý§ùÿÿÿÿ
+7
+java:S1170"!Make this final field static too.(ýëö
+Q	java:S125"<This block of commented-out lines of code should be removed.(¾®òÏ
+V	java:S125"<This block of commented-out lines of code should be removed.(ÇªŸ®úÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ƒÌÇ©
+Q	java:S125+"<This block of commented-out lines of code should be removed.(¾®òÏ
+Q	java:S125."<This block of commented-out lines of code should be removed.(ÃÒ¸ë
+S	java:S106]"9Replace this use of System.out or System.err by a logger.(üñ¤þÿÿÿÿ
+A
+java:S1168_"+Return an empty collection instead of null.(¥¹ï
+N	java:S106{"9Replace this use of System.out or System.err by a logger.(Åª¼
+A
+java:S1168}"+Return an empty collection instead of null.(¥¹ï
+O	java:S106“"9Replace this use of System.out or System.err by a logger.(ÝÙÚ×
+B
+java:S1168•"+Return an empty collection instead of null.(¥¹ï
+O	java:S106«"9Replace this use of System.out or System.err by a logger.(Ÿ¼õø
+B
+java:S1168­"+Return an empty collection instead of null.(¥¹ï
+O	java:S106Ã"9Replace this use of System.out or System.err by a logger.(ÝÙÚ×
+B
+java:S1168Å"+Return an empty collection instead of null.(¥¹ï
+P	java:S125Ê"<This block of commented-out lines of code should be removed.(£†i
+B
+java:S1144",Remove this unused private "sendSQL" method.(–®×˜
+e
+java:S1192„"NDefine a constant instead of duplicating this literal "select * from" 3 times.(‚¢¼•
+‹
+java:S1319I"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ëª“†ýÿÿÿÿ
+†
+java:S1319d"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ê…Ó¸
+Œ
+java:S1319ƒ"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¹‘©øúÿÿÿÿ
+Œ
+java:S1319š"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÎÜÄ§üÿÿÿÿ
+Œ
+java:S1319²"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".( ñóšÿÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ú‚®Šùÿÿÿÿ
+\
+java:S2259¸"@A "NullPointerException" could be thrown; "rs" is nullable here.(íôÚÇþÿÿÿÿ
+[
+java:S2259N"@A "NullPointerException" could be thrown; "rs" is nullable here.(íôÚÇþÿÿÿÿ
+\
+java:S2259‰"@A "NullPointerException" could be thrown; "rs" is nullable here.(íôÚÇþÿÿÿÿ
+[
+java:S2259i"@A "NullPointerException" could be thrown; "rs" is nullable here.(íôÚÇþÿÿÿÿ
+[
+java:S2259A"@A "NullPointerException" could be thrown; "rs" is nullable here.(·Ç¹Ìûÿÿÿÿ
+\
+java:S2259 "@A "NullPointerException" could be thrown; "rs" is nullable here.(íôÚÇþÿÿÿÿ
+e
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÀÖÐ½
+e
+java:S2095,"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÀÖÐ½

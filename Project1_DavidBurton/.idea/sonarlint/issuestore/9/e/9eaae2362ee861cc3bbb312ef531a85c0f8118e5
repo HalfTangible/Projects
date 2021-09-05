@@ -1,0 +1,14 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(îùÇ©ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(óÂƒ÷úÿÿÿÿ
+<	java:S131""Add a default case to this switch.(­®ïışÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(°æËºúÿÿÿÿ
+<	java:S131"""Add a default case to this switch.(ÍÏ›õûÿÿÿÿ
+c
+java:S18711"HThis case's code block is the same as the block for the case on line 45.(ñ™µúÿÿÿÿ
+^
+java:S1871/"HThis case's code block is the same as the block for the case on line 45.(±Îè„
+<	java:S131,""Add a default case to this switch.(ÍÏ›õûÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì¥Ñ
+f
+java:S1301""KReplace this "switch" statement by "if" statements to increase readability.(ÍÏ›õûÿÿÿÿ
