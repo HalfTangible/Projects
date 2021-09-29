@@ -33,14 +33,16 @@ Deployment directory should point to the webapp folder
 
 ## Usage
 
-> Here, you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
-
 Activate the TomCat servlet within your chosen IDE (I used IntelliJ).
 Then go to http://localhost:9000/Project1_DavidBurton/ in your browser
 You should be on the login page. Select a user and log in.
 
 Current users - Username (password) [Role]
+
 SomeGuy (password) [Employee]
+
 DaBoss (chad) [Manager]
+
 SomeOtherGuy (password) [Employee]
+
 ForTestingPurposes (swordfish) [Employee]
