@@ -1,1 +1,0 @@
-This repository contains various projects assigned to me by Revature.
